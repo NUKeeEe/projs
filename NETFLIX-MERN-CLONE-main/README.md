@@ -1,0 +1,2 @@
+# NETFLIX-MERN-CLONE
+ The "Netflix Clone" project, built using the MERN (MongoDB, Express.js, React, Node.js) stack, replicates the popular streaming platform's user interface and functionality. It allows users to browse, search, and stream movies and TV shows. Featuring user authentication, a responsive design, and a dynamic database, this project offers an immersive entertainment experience with a modern web application feel.
